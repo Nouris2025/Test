@@ -137,7 +137,7 @@ const SignIn = () => {
               </form>
 
               <p className="mt-5 text-center text-sm font-medium text-gray-700 dark:text-white">
-                Don't have an account?{" "}
+                Don &apos; t have an account?{" "}
                 <Link href="/register" className="text-primary">
                   Register
                 </Link>
